@@ -1,1 +1,1 @@
-# exocsi-stable
+# exocsi
